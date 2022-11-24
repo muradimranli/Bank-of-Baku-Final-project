@@ -2670,7 +2670,7 @@ input[type=number] {
   display: none !important;
 }
 
-.chat-icon img {
+/* .chat-icon img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -2695,7 +2695,7 @@ input[type=number] {
   background: rgb(11, 29, 94);
   right: 24px;
   bottom: 24px;
-}
+} */
 
 .accordion-button {
   background-color: #fafafa !important;
@@ -4074,10 +4074,6 @@ input[type=number] {
     width: 100%;
   }
 
-  .cards3 {
-    /* box-shadow: 0 4px 16px rgba(0, 0, 0, .04); */
-    /* padding: 16px 20px; */
-  }
 
   .cards-title h6 {
     font-size: 14px;
